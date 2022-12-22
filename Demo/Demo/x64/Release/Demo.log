@@ -1,0 +1,46 @@
+﻿  Demo.cpp
+C:\Users\Discodzy\Desktop\课程设计\14-代码资料-董仲阳\14-代码资料-董仲阳\Demo\Demo\Demo.cpp(56,2): warning C4091: “static ”: 没有声明变量时忽略“CheckMouse”的左侧
+C:\Users\Discodzy\Desktop\课程设计\14-代码资料-董仲阳\14-代码资料-董仲阳\Demo\Demo\Demo.cpp(499,40): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Discodzy\Desktop\课程设计\14-代码资料-董仲阳\14-代码资料-董仲阳\Demo\Demo\Demo.cpp(739,38): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Discodzy\Desktop\课程设计\14-代码资料-董仲阳\14-代码资料-董仲阳\Demo\Demo\Demo.cpp(1743,16): warning C4101: “temp”: 未引用的局部变量
+D:\Software\Visual studio\IDE\VC\Tools\MSVC\14.34.31933\include\xstring(2857,53): warning C4244: “参数”: 从“wchar_t”转换到“const _Elem”，可能丢失数据
+          with
+          [
+              _Elem=char
+          ]
+D:\Software\Visual studio\IDE\VC\Tools\MSVC\14.34.31933\include\xstring(2718,1): message : 查看对正在编译的函数 模板 实例化“void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)”的引用
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+D:\Software\Visual studio\IDE\VC\Tools\MSVC\14.34.31933\include\xstring(2718,37): message : 查看对正在编译的函数 模板 实例化“void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)”的引用
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+C:\Users\Discodzy\Desktop\课程设计\14-代码资料-董仲阳\14-代码资料-董仲阳\Demo\Demo\Demo.cpp(394,13): message : 查看对正在编译的函数 模板 实例化“std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)”的引用
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+C:\Users\Discodzy\Desktop\课程设计\14-代码资料-董仲阳\14-代码资料-董仲阳\Demo\Demo\Demo.cpp(394,11): message : 查看对正在编译的函数 模板 实例化“std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)”的引用
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  正在生成代码
+  0 of 599 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Demo.vcxproj -> C:\Users\Discodzy\Desktop\课程设计\14-代码资料-董仲阳\14-代码资料-董仲阳\Demo\x64\Release\Demo.exe
