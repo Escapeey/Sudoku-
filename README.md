@@ -29,12 +29,12 @@
 通过对玩家的得分进行比较来排序，可切换不同榜单  
 ## 系统功能图
 
-![系统功能设计](.\\readme配图\\系统功能图.png "系统功能设计")
+![系统功能设计](http://m.qpic.cn/psc?/V50PQLrG21HPuk2xuTDP21m7W34eYMMH/bqQfVz5yrrGYSXMvKr.cqeCqjFvQ8RoJ0WjBZRhRZqxM79abukuQkl1ExE.JbqCf2uOwYyTB5MrjG6*BvErgEoMexp4fnL326zM00Q3fgo8!/b&bo=5wTVAgAAAAADBxY!&rf=viewer_4 "系统功能设计")
 ## 预览
 ![开始界面](http://m.qpic.cn/psc?/V50PQLrG21HPuk2xuTDP21m7W34eYMMH/bqQfVz5yrrGYSXMvKr.cqdwNfJjM9CKVHLLn9KpAJKndKKH6fSnnI6hLYclWn5QskFM1BZLMGdYjf1TsS9MKssvPgBoVjJLQwUlZfPbjGwU!/b&bo=*AcbBAAAAAADJ.Y!&rf=viewer_4 "开始界面")
-![关卡选择界面](.\\readme配图\\关卡选择界面.png "关卡选择界面")
-![游戏主界面](.\\readme配图\\游戏主界面.png "游戏主界面")
-![结束界面](.\\readme配图\\结束界面.png "结束界面")
+![关卡选择界面](http://m.qpic.cn/psc?/V50PQLrG21HPuk2xuTDP21m7W34eYMMH/bqQfVz5yrrGYSXMvKr.cqQUY4SfFNkTiD4zG*rFIQXiAV4lVsNX1h19N4CZpAaGBQYnN.uYmARCw*R2YyDwE91SOGUvZYpK21Zb29ddFcwU!/b&bo=*AcbBAAAAAADN*Y!&rf=viewer_4 "关卡选择界面")
+![游戏主界面](http://m.qpic.cn/psc?/V50PQLrG21HPuk2xuTDP21m7W34eYMMH/bqQfVz5yrrGYSXMvKr.cqXHUJae5nN1EZz32hByauHSZIl3wf20HRkQWLdqhypcoUvS3yAcTQBZB0xnU4NI7jqp0VrhjSQRXYEfZshcja14!/b&bo=*AcbBAAAAAADN*Y!&rf=viewer_4 "游戏主界面")
+![结束界面](http://m.qpic.cn/psc?/V50PQLrG21HPuk2xuTDP21m7W34eYMMH/bqQfVz5yrrGYSXMvKr.cqekeW8O0MmLPOONTbZdzYPeX2jj96N41LLVcJBkQFwb0oFeYiNg3N6LQ*fERPLp5R20yRiX*O1lS27hLswPdfAw!/b&bo=*AcbBAAAAAADR4Y!&rf=viewer_4 "结束界面")
 ## 备注
 数独.exe 为打包好的可执行文件  
 Demo\Icon 为游戏内插图文件夹  
